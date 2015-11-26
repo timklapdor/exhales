@@ -5,15 +5,14 @@ permalink: /about/
 
 ---
 
-This is a first attempt at a couple of things:
+Exhales is an attempt at a couple of things:
 
-1. first is using gihub pages,
-2. using jekyll,
-3. customising a jekyll theme,
-4. actively curating and commenting links, not just hoarding them
-4. and biggest of all - attempting to record what I'm reading, listening and watching.
+1. Using Github & Jekyll to create forkable content (check markdown in "_posts" folder).
+2. Getting ideas out - even if they are half-formed, incorrect, badly worded.
 
-I am planning an accompanying blog - *Exhale* - which will be outputs from me. 
+Words and Images are available for use as CC BY NC except images that are attributed - in which case follow the link for attribution and usage terms. Feedback is always welcome and appreciated. 
+
+I also have an accompanying blog - *[Inhales](http://inhal.es)* which is full of curated snippets from the web. 
 
 This is definately a work in progress, and something that will evolve over time. 
 

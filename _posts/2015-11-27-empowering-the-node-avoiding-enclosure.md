@@ -5,7 +5,7 @@ title: "Empowering the Node & Avoiding Enclosure"
 date: 2015-11-27 08:00:00
 categories: presentation
 tags: [myos, enclosure, reclaim, ]
-image: ../assets/article_images/empowering-the-node/dLRN_Page_22.jpg
+image: /assets/article_images/empowering-the-node/dLRN_Page_22.jpg
 
 ---
 
