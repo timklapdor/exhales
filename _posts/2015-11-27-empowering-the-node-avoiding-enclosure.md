@@ -189,19 +189,19 @@ MYOS embodies the following priciples to Empower the Node:
 
 ![](http://exhal.es/assets/article_images/empowering-the-node/dLRN_Page_33.jpg)
 
-1. You are in control - that as a node you get to make the decisions, they're not made for you.
+1) You are in control - that as a node you get to make the decisions, they're not made for you.
 
 ![](http://exhal.es/assets/article_images/empowering-the-node/dLRN_Page_34.jpg)
 
-2. Data is yours - your data is sovereign and it should be treated that way. You should have authority over how your data is shared and used. Who can access it and for how long.
+2) Data is yours - your data is sovereign and it should be treated that way. You should have authority over how your data is shared and used. Who can access it and for how long.
 
 ![](http://exhal.es/assets/article_images/empowering-the-node/dLRN_Page_35.jpg)
 
-3. Connections are negotiated - rather than simply sign away to terms of service we need to ensure that democratic values are not lost. Networks require trust to work effectively so it's importatnt that both sides are explicit about what and how they are willing to work. Systems
+3) Connections are negotiated - rather than simply sign away to terms of service we need to ensure that democratic values are not lost. Networks require trust to work effectively so it's importatnt that both sides are explicit about what and how they are willing to work. Systems
 
 ![](http://exhal.es/assets/article_images/empowering-the-node/dLRN_Page_36.jpg)
 
-4. Enhance and enable diversity - Rather than enforce a monoculture, MYOS aims to promote diversity. We live in a complex world and we need to service that complexity rather than limit and While there is a need for a stable core, MYOS should promote a diverse eco-system of applications.
+4) Enhance and enable diversity - Rather than enforce a monoculture, MYOS aims to promote diversity. We live in a complex world and we need to service that complexity rather than limit and While there is a need for a stable core, MYOS should promote a diverse eco-system of applications.
 
 ![](http://exhal.es/assets/article_images/empowering-the-node/dLRN_Page_37.jpg)
 
