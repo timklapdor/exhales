@@ -9,9 +9,9 @@ image: ../assets/article_images/empowering-the-node/dLRN_Page_22.jpg
 
 ---
 
-This talk was given at the dLRN15 Conference on Saturday the 17th of October 2015 at Stanford University, Palo Alto. The talk is also available as a video (recorded after the live session) on [YouTube](https://timklapdor.wordpress.com/2015/09/25/the-fire/). 
+This talk was given at the dLRN15 Conference on Saturday the 17th of October 2015 at Stanford University, Palo Alto. The talk is also available as a video (recorded after the live session) on [YouTube](https://youtu.be/nu1cDxU3JRo). 
 
-![](http://exhal.esassets/article_images/empowering-the-node/dLRN_Page_01.jpg)
+![](http://exhal.es/assets/article_images/empowering-the-node/dLRN_Page_01.jpg)
 
 
 Today I wanted to present on two things - one is an observation of a significant problem. The other is to put forward a proposal for a way forward in which to overcome.
